@@ -213,7 +213,8 @@ cada versión.
 Si tienes preguntas, comentarios o solicitudes relacionadas con esta Política de
 Privacidad o con el tratamiento de información dentro de LossTrack, puedes comunicarte
 mediante:
-Responsable: [Nombre del desarrollador o empresa]
-Correo electrónico: [correo electrónico]
+
+Responsable: Manuel Perez Lopez
+Correo electrónico: 2311080829@ALUMNO.UTPUEBLA.EDU.MX
 Nombre de la aplicación: LossTrack
 Fecha de última actualización: 23 de septiembre de 2026
